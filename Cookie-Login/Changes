@@ -1,0 +1,6 @@
+Revision history for Perl extension Cookie::Login.
+
+0.01  Thu Oct 18 15:47:00 2012
+	- original version; created by h2xs 1.23 with options
+		-AX -n Cookie::Login
+
